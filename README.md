@@ -25,8 +25,6 @@ yarn add eyeruleall/nuxt-typeorm # or npm install eyeruleall/nuxt-typeorm
 
    See [TypeORM Docs](https://typeorm.io/#/connection-options) for details.
 
-   THIS STEP IS REQUIRED. THIS PACKAGE WILL NOT READ CONFIGURATION FROM FILES
-
 ```js
 // example options
 {
@@ -39,6 +37,8 @@ yarn add eyeruleall/nuxt-typeorm # or npm install eyeruleall/nuxt-typeorm
 ```
 
 3. Add `nuxt-typeorm` to the `modules` section of `nuxt.config.js`
+   
+   THIS STEP IS REQUIRED. THIS PACKAGE WILL NOT READ CONFIGURATION FROM FILES
 
 ```js
 {
