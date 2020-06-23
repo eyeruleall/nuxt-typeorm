@@ -32,7 +32,7 @@ yarn add eyeruleall/nuxt-typeorm # or npm install eyeruleall/nuxt-typeorm
 {
     type: 'sqlite',
     database: './database/db.sqlite',
-    entities: ['./graphql/*.entity.{ts, js}'],
+    entities: ['./**/*.entity.{ts, js}'],
     logging: false,
     synchronize: true
 }
