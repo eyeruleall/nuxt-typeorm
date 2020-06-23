@@ -1,6 +1,6 @@
 {
   "name": "nuxt-typeorm",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "TypeORM integration for Nuxt",
   "repository": "eyeruleall/nuxt-typeorm",
   "license": "MIT",
