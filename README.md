@@ -18,7 +18,7 @@ Provides simple, drop-in support for TypeORM in nuxt projects.
 1. Add `nuxt-typeorm` dependency to your project
 
 ```bash
-yarn add nuxt-typeorm # or npm install nuxt-typeorm
+yarn add eyeruleall/nuxt-typeorm # or npm install eyeruleall/nuxt-typeorm
 ```
 
 2. Pass in your connection options inside the `nuxt.config` file.
